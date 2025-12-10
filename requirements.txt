@@ -1,8 +1,7 @@
-streamlit
-pandas
-nltk
+textblob
 Sastrawi
 matplotlib
-wordcloud>=1.9.3
+wordcloud
 plotly
-
+streamlit
+pandas
